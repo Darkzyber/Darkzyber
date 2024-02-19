@@ -1,9 +1,12 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Phet</h1>
+<h3 align="center">A passionate Web developer from Thailand</h3>
+
+- 📫 How to reach me **01peerapol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pchunecharoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pchunecharoen" height="30" width="40" /></a>
-<a href="https://fb.com/peerapol chunecharoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peerapol chunecharoen" height="30" width="40" /></a>
+<a href="https://fb.com/darkcyber15375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkcyber15375" height="30" width="40" /></a>
 <a href="https://instagram.com/darkcyber.phet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkcyber.phet" height="30" width="40" /></a>
 </p>
 
