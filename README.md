@@ -47,7 +47,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
     </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"
+ height="40"/> 
     </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
@@ -70,5 +71,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkzyber&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkzyber&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
