@@ -69,6 +69,6 @@
 <h3 align="center">My Stats </h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkzyber&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkzyber&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkzyber&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkzyber&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
