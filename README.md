@@ -17,7 +17,7 @@
     <a href="https://fb.com/darkcyber15375" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkcyber15375" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/darkcyber.phet" target="blank">
+    <a href="https://www.instagram.com/phet.dcb/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkcyber.phet" height="30" width="40" />
     </a>
 </p>
