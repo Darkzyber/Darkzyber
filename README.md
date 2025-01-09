@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phet AKA Darkzyber</h1>
 <h3 align="center">A passionate web developer from Thailand</h3>
 
-- 🔭 I’m currently working on **PENKVIN,MapleCraft and Thunderbolt minecraft server**
+- 🔭 I’m currently working on ** Poxelmin Legends 493 minecraft server**
 
 - 🌱 I’m currently learning **NodeJS**
 
